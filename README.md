@@ -1,7 +1,6 @@
 - 👋 Hi, I’m pradeep
-- 👀 I’m interested in programming language
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking a opportunity for become a software engineer
+- 👍 hardwork never fails
 - 📫 How to reach me ==} pradeepgunasekaran447@gmail.com
 
 <!---
